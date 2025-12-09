@@ -1,0 +1,1 @@
+sudo rm -f ~/aws-devops-project/modules/ecs_alb_secrets/main.tf
